@@ -1,0 +1,22 @@
+---
+title: "CITI Human Subjects Research Training Report"
+subtitle: "Human Research – College of Business Administration, Basic Course"
+author: "Ron Stephen Sabilla"
+date: "2026-10-07"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Contents"
+    number-sections: false
+    embed-resources: true
+---
+
+## Completion Certificate
+
+![CITI Program Completion Certificate (Record ID 80163928)](citi_certificate.png){fig-align="center" width="100%"}
+
+## Appendix
+
+- **GitHub Repository:** [https://github.com/YOUR-USERNAME/YOUR-REPO](https://github.com/YOUR-USERNAME/YOUR-REPO)
+- **GitHub Pages (Published Report):** [https://YOUR-USERNAME.github.io/YOUR-REPO/](https://YOUR-USERNAME.github.io/YOUR-REPO/)
